@@ -1,0 +1,58 @@
+﻿@model Kiemtragiuaky.Models.SinhVien
+
+<div class="container mt-4">
+    <div class="card shadow-sm">
+        <div class="card-header bg-danger text-white text-center">
+            <h4>XÁC NHẬN XOÁ SINH VIÊN</h4>
+        </div>
+        <div class="card-body">
+            <!-- Thông Báo Xoá -->
+            <h5 class="text-danger">Bạn muốn xoá sinh viên: <strong>@Model.HoTen</strong>?</h5>
+
+            <!-- Mã Sinh Viên -->
+            <div class="mb-3">
+                <label class="fw-bold">Mã Sinh Viên:</label>
+                <input type="text" class="form-control" value="@Model.MaSV" readonly />
+            </div>
+
+            <!-- Họ Tên -->
+            <div class="mb-3">
+                <label class="fw-bold">Họ Tên:</label>
+                <input type="text" class="form-control" value="@Model.HoTen" readonly />
+            </div>
+
+            <!-- Giới Tính -->
+            <div class="mb-3">
+                <label class="fw-bold">Giới Tính:</label>
+                <input type="text" class="form-control" value="@Model.GioiTinh" readonly />
+            </div>
+
+            <!-- Ngày Sinh -->
+            <div class="mb-3">
+                <label class="fw-bold">Ngày Sinh:</label>
+                <input type="text" class="form-control" value="@Model.NgaySinh.ToShortDateString()" readonly />
+            </div>
+
+            <!-- Mã Ngành -->
+            <div class="mb-3">
+                <label class="fw-bold">Ngành Học:</label>
+                <input type="text" class="form-control" value="@Model.NganhHoc?.TenNganh" readonly />
+            </div>
+
+            <!-- Hình -->
+            <div class="mb-3">
+                <label class="fw-bold">Hình Ảnh:</label>
+                <div class="d-flex align-items-center">
+                    <img src="@Url.Content(Model.Hinh)" alt="Current Image" class="img-thumbnail" style="width:120px; height:auto;" />
+                </div>
+            </div>
+
+            <!-- Form Xoá -->
+            <form method="post">
+                <input type="hidden" asp-for="MaSV" />
+                <button type="submit" class="btn btn-danger">Xoá Sinh Viên</button>
+                <a href="@Url.Action("Index", "SinhVien")" class="btn btn-outline-secondary ms-2">Huỷ</a>
+            </form>
+        </div>
+    </div>
+</div>

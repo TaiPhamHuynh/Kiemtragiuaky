@@ -1,0 +1,53 @@
+﻿@model Kiemtragiuaky.Models.SinhVien
+
+<div class="container mt-4">
+    <div class="card shadow-sm">
+        <div class="card-header bg-info text-white text-center">
+            <h4>THÔNG TIN SINH VIÊN</h4>
+        </div>
+        <div class="card-body">
+            <!-- Mã Sinh Viên -->
+            <div class="mb-3">
+                <label class="fw-bold">Mã Sinh Viên:</label>
+                <input type="text" class="form-control" value="@Model.MaSV" readonly />
+            </div>
+
+            <!-- Họ Tên -->
+            <div class="mb-3">
+                <label class="fw-bold">Họ Tên:</label>
+                <input type="text" class="form-control" value="@Model.HoTen" readonly />
+            </div>
+
+            <!-- Giới Tính -->
+            <div class="mb-3">
+                <label class="fw-bold">Giới Tính:</label>
+                <input type="text" class="form-control" value="@Model.GioiTinh" readonly />
+            </div>
+
+            <!-- Ngày Sinh -->
+            <div class="mb-3">
+                <label class="fw-bold">Ngày Sinh:</label>
+                <input type="text" class="form-control" value="@Model.NgaySinh.ToShortDateString()" readonly />
+            </div>
+
+            <!-- Mã Ngành -->
+            <div class="mb-3">
+                <label class="fw-bold">Ngành Học:</label>
+                <input type="text" class="form-control" value="@Model.NganhHoc?.TenNganh" readonly />
+            </div>
+
+            <!-- Hình -->
+            <div class="mb-3">
+                <label class="fw-bold">Hình Ảnh:</label>
+                <div class="d-flex align-items-center">
+                    <img src="@Url.Content(Model.Hinh)" alt="Current Image" class="img-thumbnail" style="width:120px; height:auto;" />
+                </div>
+            </div>
+
+            <!-- Nút Quay Về -->
+            <div class="d-flex justify-content-end mt-3">
+                <a href="@Url.Action("Index", "SinhVien")" class="btn btn-outline-secondary">Quay Về</a>
+            </div>
+        </div>
+    </div>
+</div>

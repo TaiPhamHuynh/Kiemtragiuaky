@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.0">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.0">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Npgsql" Version="6.0.0" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Views\SinhVien\" />
+    <None Remove="Data\" />
+    <None Remove="Views\DangNhap\" />
+    <None Remove="Views\HocPhan\" />
+    <None Remove="Views\DangKy\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\SinhVien\" />
+    <Folder Include="Data\" />
+    <Folder Include="wwwroot\image\" />
+    <Folder Include="Views\DangNhap\" />
+    <Folder Include="Views\HocPhan\" />
+    <Folder Include="Views\DangKy\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\image\" />
+  </ItemGroup>
+</Project>

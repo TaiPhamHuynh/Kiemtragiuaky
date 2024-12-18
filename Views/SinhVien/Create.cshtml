@@ -1,0 +1,63 @@
+﻿@model Kiemtragiuaky.Models.SinhVien
+
+<div class="container mt-4">
+    <div class="card shadow-sm">
+        <div class="card-header bg-primary text-white text-center">
+            <h4>THÊM SINH VIÊN</h4>
+        </div>
+        <div class="card-body">
+            <form asp-action="Create" method="post" enctype="multipart/form-data">
+
+                <!-- Mã Sinh Viên -->
+                <div class="mb-3">
+                    <label asp-for="MaSV" class="form-label fw-bold">Mã Sinh Viên</label>
+                    <input asp-for="MaSV" class="form-control" placeholder="Nhập mã sinh viên" />
+                    <span asp-validation-for="MaSV" class="text-danger"></span>
+                </div>
+
+                <!-- Họ Tên -->
+                <div class="mb-3">
+                    <label asp-for="HoTen" class="form-label fw-bold">Họ Tên</label>
+                    <input asp-for="HoTen" class="form-control" placeholder="Nhập họ tên sinh viên" />
+                    <span asp-validation-for="HoTen" class="text-danger"></span>
+                </div>
+
+                <!-- Giới Tính -->
+                <div class="mb-3">
+                    <label asp-for="GioiTinh" class="form-label fw-bold">Giới Tính</label>
+                    <select asp-for="GioiTinh" class="form-select">
+                        <option value="Nam">Nam</option>
+                        <option value="Nữ">Nữ</option>
+                    </select>
+                    <span asp-validation-for="GioiTinh" class="text-danger"></span>
+                </div>
+
+                <!-- Ngày Sinh -->
+                <div class="mb-3">
+                    <label asp-for="NgaySinh" class="form-label fw-bold">Ngày Sinh</label>
+                    <input asp-for="NgaySinh" type="date" class="form-control" />
+                    <span asp-validation-for="NgaySinh" class="text-danger"></span>
+                </div>
+
+                <!-- Hình Ảnh -->
+                <div class="mb-3">
+                    <label for="HinhFile" class="form-label fw-bold">Hình Ảnh</label>
+                    <input type="file" class="form-control" id="HinhFile" name="HinhFile" />
+                </div>
+
+                <!-- Mã Ngành -->
+                <div class="mb-3">
+                    <label asp-for="MaNganh" class="form-label fw-bold">Mã Ngành</label>
+                    <input asp-for="MaNganh" class="form-control" placeholder="Nhập mã ngành học" />
+                    <span asp-validation-for="MaNganh" class="text-danger"></span>
+                </div>
+
+                <!-- Nút Lưu và Quay Về -->
+                <div class="d-flex justify-content-between mt-4">
+                    <button type="submit" class="btn btn-success px-4">Thêm</button>
+                    <a href="@Url.Action("Index", "SinhVien")" class="btn btn-outline-secondary px-4">Quay Về</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

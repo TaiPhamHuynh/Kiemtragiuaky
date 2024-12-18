@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{80938B9B-8506-4040-A7A5-F6073C1AB385}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/SinhVien/Index.cshtml">
+    <Files>
+      <File FileName="Views/DangKy/Index.cshtml" Line="36" Column="1" IsPinned="True" />
+      <File FileName="Models/HocPhan.cs" Line="15" Column="1" />
+      <File FileName="Controllers/DangKyController.cs" Line="47" Column="28" />
+      <File FileName="Views/DangNhap/Index.cshtml" Line="8" Column="28" />
+      <File FileName="Controllers/DangNhapController.cs" Line="71" Column="46" />
+      <File FileName="Controllers/SinhVienController.cs" Line="131" Column="43" />
+      <File FileName="Views/HocPhan/Index.cshtml" Line="33" Column="13" />
+      <File FileName="Models/ChiTietDangKy.cs" Line="13" Column="1" />
+      <File FileName="Models/NganhHoc.cs" Line="12" Column="2" />
+      <File FileName="Models/SinhVien.cs" Line="6" Column="20" />
+      <File FileName="Controllers/HocPhanController.cs" Line="17" Column="1" />
+      <File FileName="Program.cs" Line="49" Column="18" />
+      <File FileName="Views/SinhVien/Create.cshtml" Line="1" Column="1" />
+      <File FileName="Views/SinhVien/Index.cshtml" Line="31" Column="147" />
+      <File FileName="Views/SinhVien/Edit.cshtml" Line="22" Column="36" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="Models/DangKy.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Kiemtragiuaky" expanded="True">
+            <Node name="Kiemtragiuaky">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="DangKy" expanded="True" />
+                <Node name="DangNhap" expanded="True" />
+                <Node name="HocPhan" expanded="True" />
+                <Node name="SinhVien" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Kiemtragiuaky PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

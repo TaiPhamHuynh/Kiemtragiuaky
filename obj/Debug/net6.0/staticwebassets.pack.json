@@ -1,0 +1,325 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/obj/Debug/net6.0/scopedcss/projectbundle/Kiemtragiuaky.bundle.scp.css",
+      "PackagePath": "staticwebassets/Kiemtragiuaky.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/image/.DS_Store",
+      "PackagePath": "staticwebassets/image/.DS_Store"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/image/02f24588-8f51-497f-ad37-e8c13dfb93f1.jpeg",
+      "PackagePath": "staticwebassets/image/02f24588-8f51-497f-ad37-e8c13dfb93f1.jpeg"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/image/117685cc-440a-436b-9de8-e6e8d9773c71.jpeg",
+      "PackagePath": "staticwebassets/image/117685cc-440a-436b-9de8-e6e8d9773c71.jpeg"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/image/285558ce-4e7c-4c1a-b726-ceac2b092bc0.jpg",
+      "PackagePath": "staticwebassets/image/285558ce-4e7c-4c1a-b726-ceac2b092bc0.jpg"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/image/31b47bb2-bfbf-4ad5-8a9b-4dac121cae8d.jpg",
+      "PackagePath": "staticwebassets/image/31b47bb2-bfbf-4ad5-8a9b-4dac121cae8d.jpg"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/image/436536f7-b481-4875-8aad-a71b0a41a07d.jpeg",
+      "PackagePath": "staticwebassets/image/436536f7-b481-4875-8aad-a71b0a41a07d.jpeg"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/image/63ac12c1-6d8c-4948-81c3-0a05d1edb326.jpeg",
+      "PackagePath": "staticwebassets/image/63ac12c1-6d8c-4948-81c3-0a05d1edb326.jpeg"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/image/8645be24-2dde-405a-901d-161d3cab0e3c.jpeg",
+      "PackagePath": "staticwebassets/image/8645be24-2dde-405a-901d-161d3cab0e3c.jpeg"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/image/916f67a2-0e56-4245-8be1-344e87fb6ab0.png",
+      "PackagePath": "staticwebassets/image/916f67a2-0e56-4245-8be1-344e87fb6ab0.png"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/image/9f52ce8d-6b40-48f4-8447-8d69331b7476.jpg",
+      "PackagePath": "staticwebassets/image/9f52ce8d-6b40-48f4-8447-8d69331b7476.jpg"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/image/c122548c-888f-4ad9-bc62-677e5d3d5148.jpg",
+      "PackagePath": "staticwebassets/image/c122548c-888f-4ad9-bc62-677e5d3d5148.jpg"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/image/ecdd02b4-3926-4a42-bcf1-9e41660f3d3f.jpg",
+      "PackagePath": "staticwebassets/image/ecdd02b4-3926-4a42-bcf1-9e41660f3d3f.jpg"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/image/sinhvien1.jpeg",
+      "PackagePath": "staticwebassets/image/sinhvien1.jpeg"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/image/sinhvien2.jpeg",
+      "PackagePath": "staticwebassets/image/sinhvien2.jpeg"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/phamhuynhtai/Projects/Kiemtragiuaky/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.Kiemtragiuaky.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.Kiemtragiuaky.props",
+      "PackagePath": "build\\Kiemtragiuaky.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Kiemtragiuaky.props",
+      "PackagePath": "buildMultiTargeting\\Kiemtragiuaky.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Kiemtragiuaky.props",
+      "PackagePath": "buildTransitive\\Kiemtragiuaky.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

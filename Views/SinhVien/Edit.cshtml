@@ -1,0 +1,62 @@
+﻿@model Kiemtragiuaky.Models.SinhVien
+
+<div class="container mt-4">
+    <div class="card shadow-sm">
+        <div class="card-header bg-primary text-white text-center">
+            <h4>Chỉnh Sửa Thông Tin Sinh Viên</h4>
+        </div>
+        <div class="card-body">
+            <form asp-action="Edit" enctype="multipart/form-data">
+                <input type="hidden" asp-for="MaSV" />
+
+                <!-- Họ Tên -->
+                <div class="mb-3">
+                    <label asp-for="HoTen" class="form-label fw-bold">Họ Tên</label>
+                    <input asp-for="HoTen" class="form-control" placeholder="Nhập họ tên sinh viên" />
+                </div>
+
+                <!-- Giới Tính -->
+                <div class="mb-3">
+                    <label asp-for="GioiTinh" class="form-label fw-bold">Giới Tính</label>
+                    <select asp-for="GioiTinh" class="form-select">
+                        <option value="Nam">Nam</option>
+                        <option value="Nữ">Nữ</option>
+                    </select>
+                </div>
+
+                <!-- Ngày Sinh -->
+                <div class="mb-3">
+                    <label asp-for="NgaySinh" class="form-label fw-bold">Ngày Sinh</label>
+                    <input asp-for="NgaySinh" type="date" class="form-control" />
+                </div>
+
+                <!-- Ngành Học -->
+                <div class="mb-3">
+                    <label asp-for="MaNganh" class="form-label fw-bold">Ngành Học</label>
+                    <select asp-for="MaNganh" asp-items="ViewBag.NganhHoc" class="form-select">
+                        <option value="">-- Chọn Ngành Học --</option>
+                    </select>
+                    <span asp-validation-for="MaNganh" class="text-danger"></span>
+                </div>
+
+                <!-- Hình Ảnh -->
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Hình Ảnh</label>
+                    <input type="file" name="file" class="form-control" />
+                    @if (!string.IsNullOrEmpty(Model.Hinh))
+                    {
+                        <div class="mt-2">
+                            <img src="@Url.Content(Model.Hinh)" alt="Hình Hiện Tại" class="img-thumbnail" style="width: 150px; height: auto;" />
+                        </div>
+                    }
+                </div>
+
+                <!-- Nút Lưu và Quay Về -->
+                <div class="d-flex justify-content-between mt-4">
+                    <button type="submit" class="btn btn-success px-4">Lưu</button>
+                    <a href="@Url.Action("Index", "SinhVien")" class="btn btn-outline-secondary px-4">Quay Về</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

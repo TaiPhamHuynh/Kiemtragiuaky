@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Kiemtragiuaky.Models.HocPhan>
+
+@{
+    ViewData["Title"] = "Danh Sách Học Phần";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Mã Học Phần</th>
+            <th>Tên Môn Học</th>
+            <th>Số Tín Chỉ</th>
+            <th>Số Lượng Dự Kiến</th>
+            <th>Hành Động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var hocPhan in Model)
+        {
+            <tr>
+                <td>@hocPhan.MaHP</td>
+                <td>@hocPhan.TenHP</td>
+                <td>@hocPhan.SoTinChi</td>
+                <td>@hocPhan.SoLuongDuKien</td>
+                <td>
+                    <form method="post" asp-controller="DangKy" asp-action="DangKyHocPhan" asp-route-maHocPhan="@hocPhan.MaHP">
+                        <button type="submit" class="btn btn-success">Đăng Ký</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
